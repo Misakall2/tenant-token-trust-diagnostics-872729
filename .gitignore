@@ -67,3 +67,6 @@ demo.py
 *credentials*.json
 *token*.secret
 venv/
+
+# Preserve public upstream test fixtures
+!tests/keys/*.pem
